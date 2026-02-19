@@ -1,0 +1,8 @@
+.main-container {
+  width: 1440px;
+  height: 1024px;
+  /* Optional: Center the container on the screen */
+  margin: 0 auto;
+  /* Optional: Prevent content from spilling out */
+  overflow: hidden; 
+}

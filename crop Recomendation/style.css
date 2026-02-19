@@ -1,0 +1,8 @@
+.container-fixed {
+  width: 1440px;
+  height: 1024px;
+  /* Optional: Centers the box if the screen is wider than 1440px */
+  margin: 0 auto;
+  /* Optional: Ensures the background color or borders are visible */
+  background-color: transparent; 
+}

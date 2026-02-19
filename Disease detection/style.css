@@ -1,0 +1,9 @@
+.dashboard-container {
+  height: 1050px;
+  width: 1464px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  /* Optional: keeps the large container centered on the screen */
+  margin: 0 auto;
+}

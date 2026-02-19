@@ -1,0 +1,7 @@
+.main-wrapper {
+  width: 1440px;
+  height: 1024px;
+  background-color: #f2fdf2;
+  /* Centering the fixed container */
+  margin: 0 auto;
+}
